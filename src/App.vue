@@ -10,8 +10,23 @@
     <audio id="test3"> 
       <source src="./lhr_ca.mp3">
     </audio>
+    <audio id="jh1"> 
+      <source src="./Lhb .mp3">
+    </audio>
+    <audio id="jh2"> 
+      <source src="./Lhg .mp3">
+    </audio>
+    <audio id="jh3"> 
+      <source src="./Lhr .mp3">
+    </audio>
 
 
+    <div class="fuck">
+      <select id = "chooseVoice">
+        <option value="cj">Child Actor</option>
+        <option value="jh">Normal Korean Man</option>
+      </select>
+    </div>
     <div class="fuck">
       <button v-on:click="twist">Twist</button>
     </div>
@@ -26,7 +41,7 @@
 </template>
 
 <script>
-function timer() {
+function cjtimer() {
   var ran = Math.floor(Math.random() * 3);
   var x;
 
@@ -48,13 +63,44 @@ function timer() {
   }
 }
 
+function jhtimer() {
+  var ran = Math.floor(Math.random() * 3);
+  var x;
+
+  switch(ran) {
+    case 0:
+      x = document.getElementById('jh1');
+      x.play();
+      break;
+    case 1:
+      x = document.getElementById('jh2');
+      x.play();
+      break;
+    case 2:
+      x = document.getElementById('jh3');
+      x.play();
+      break;
+    default:
+      alert('something is big wrong');
+  }
+}
 export default {
   name: 'app',
   components: {
   },
   methods: {
     twist() {
-      setInterval(timer, 3000);
+      var timer;
+      var voiceOp = document.getElementById("chooseVoice");
+
+      if(voiceOp.selectedIndex == 0) {
+        timer = setInterval(cjtimer, 3000);
+      }
+      else {
+        //setInterval(jhtimer, 3000);
+        timer = setInterval(jhtimer, 3000);
+      }
+      
     },
     quit() {
       //var txt = "f";
@@ -78,5 +124,6 @@ export default {
 
 .fuck {
   text-align: center;
+  padding: 20px;
 }
 </style>
