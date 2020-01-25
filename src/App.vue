@@ -100,6 +100,8 @@ export default {
         //setInterval(jhtimer, 3000);
         timer = setInterval(jhtimer, 3000);
       }
+
+      alert(timer);
       
     },
     quit() {
