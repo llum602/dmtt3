@@ -1,9 +1,12 @@
 <template>
   <div id="app">
 
-    <audio id="test">
-      <source src="src\assets\music\Recording-3.mp3">
+    <!-- <audio id="test">
+      <source src="src\assets\music\test.mp3">
     </audio>
+    <audio ref="audioRef" src="test.mp3"></audio> -->
+
+    <audio ref="aRef" id="aRef" src="/public/test1.ogg"></audio>
 
     <div class="fuck">
       <button v-on:click="twist">Twist</button>
@@ -17,7 +20,8 @@
 </template>
 
 <script>
-import {Howl} from 'howler';
+//import {Howl} from 'howler';
+//require('howler');
 
 // function dipshit() {
 //   //alert('ass');
@@ -99,11 +103,19 @@ export default {
   methods: {
     twist: function () {
       //setInterval(dipshit, 3000);
-      var sound = new Howl({
-        src: ['Recording-3.mp3']
-      });
+      alert('hi');
+      // var sound = new Howl({
+      //   src: ['../public/test.mp3'],
+      //   html15: true,
+      //   autoplay: true,
+      //   volume: 1.0
+      // });
 
-      sound.play();
+      // sound.play();
+
+      this.$refs.aRef.play();
+
+
     }
     
   }
