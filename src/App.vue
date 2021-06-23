@@ -130,6 +130,113 @@
     </audio>
 
 
+    <!-- Rujula -->
+    <audio id="r1"> 
+      <source src="https://drive.google.com/uc?export=download&id=1ylnseLPkAus0j46FHqCvwrpGKEoJaeRr">
+    </audio>
+    <audio id="r2"> 
+      <source src="https://drive.google.com/uc?export=download&id=1C_iL9RMHd0tDMh_D6agEIN31tsV-IV4s">
+    </audio>
+    <audio id="r3"> 
+      <source src="https://drive.google.com/uc?export=download&id=1vkQMd5i0-DK2iF2wKCyNj8xn-i7Z5_0H">
+    </audio>
+    <audio id="r4"> 
+      <source src="https://drive.google.com/uc?export=download&id=1740yg7WmNYyhR37cLupiNmkwigwSgkQ5">
+    </audio>
+    <audio id="r5"> 
+      <source src="https://drive.google.com/uc?export=download&id=1IAf65dVR5F0SbNAIIYiE1prXZf7o9Xgm">
+    </audio>
+    <audio id="r6"> 
+      <source src="https://drive.google.com/uc?export=download&id=1aW4mUSSpLSbXM3D2ES7YjWK7GimstrDk">
+    </audio>
+    <audio id="r7"> 
+      <source src="https://drive.google.com/uc?export=download&id=1LOG3jPG394wL28a5oz2xNvbajXPj1RTK">
+    </audio>
+    <audio id="r8"> 
+      <source src="https://drive.google.com/uc?export=download&id=1OucR3VQuf59KALfpNfDL2e9UwlFjYnNu">
+    </audio>
+    <audio id="r9"> 
+      <source src="https://drive.google.com/uc?export=download&id=1h0On6vz872iJFRG7V9YxOdlp_vVPw5Hc">
+    </audio>
+    <audio id="t10"> 
+      <source src="https://drive.google.com/uc?export=download&id=1RYrHVyFNt8DEPu9eg3PeU27vE2J1qD_d">
+    </audio>
+    <audio id="r11"> 
+      <source src="https://drive.google.com/uc?export=download&id=1epyZ6tWkkUOy_G7rHdxKnGmxrKAqiGzy">
+    </audio>
+    <audio id="r12"> 
+      <source src="https://drive.google.com/uc?export=download&id=1SQ-wLq5PZrLSUOb78XYGCkZRRWAQ-stz">
+    </audio>
+    <audio id="r13"> 
+      <source src="https://drive.google.com/uc?export=download&id=1sLn0pUZK1VWFyW6VEPnDs-h6T5AtfOUU">
+    </audio>
+    <audio id="r14"> 
+      <source src="https://drive.google.com/uc?export=download&id=1eCa_FSP9d9uDntn4CYpVm3a6PTt87Tv2">
+    </audio>
+    <audio id="r15"> 
+      <source src="https://drive.google.com/uc?export=download&id=1oR_I30yT7Gn9DYOnIGRHIN_vzcOHgK_e">
+    </audio>
+    <audio id="r16"> 
+      <source src="https://drive.google.com/uc?export=download&id=1tOuvV_Svev5pJ614UW9joLQMa6CO5YtG">
+    </audio>
+    <audio id="r17"> 
+      <source src="https://drive.google.com/uc?export=download&id=1rn2A5PW2WDTVgJiu69AoyNJrliSR_a4W">
+    </audio>
+
+  <!-- Lauren -->
+    <audio id="l1"> 
+      <source src="https://drive.google.com/uc?export=download&id=1KmIy8qVVYsR8GGp_XqZeoUqIePc13gcg">
+    </audio>
+    <audio id="l2"> 
+      <source src="https://drive.google.com/uc?export=download&id=1P7Rg_dHzQmr5H1P8cjl_u-l1nuAAgakK">
+    </audio>
+    <audio id="l3"> 
+      <source src="https://drive.google.com/uc?export=download&id=14ZmEsgyo6JHlsQpOuWBvAQJdfzrPxPWI">
+    </audio>
+    <audio id="l4"> 
+      <source src="https://drive.google.com/uc?export=download&id=1D8Nzz-LAmAd8PdTiGvzvQeW4N-o1JHea">
+    </audio>
+    <audio id="l5"> 
+      <source src="https://drive.google.com/uc?export=download&id=1P2fiWhQZZzoT8-VFOs7U6NB3yExNoX_Y">
+    </audio>
+    <audio id="l6"> 
+      <source src="https://drive.google.com/uc?export=download&id=1-OcMiY5S8ci_cRFEyWfOWGFN8b6BgCka">
+    </audio>
+    <audio id="l7"> 
+      <source src="https://drive.google.com/uc?export=download&id=1dMoO5KbvCl7fIFQkSmrBX8t4q2nPuCXY">
+    </audio>
+    <audio id="l8"> 
+      <source src="https://drive.google.com/uc?export=download&id=1i3BCmK2sPzgfmtDFdAjWfJpGVLNE0c_z">
+    </audio>
+    <audio id="l9"> 
+      <source src="https://drive.google.com/uc?export=download&id=10LMLyDSS6FiB1hVTeKGkQfenHS6QfJ1e">
+    </audio>
+    <audio id="l10"> 
+      <source src="https://drive.google.com/uc?export=download&id=1YCQzTBIYfNibHgZL2uVd64P5YD2nnXWD">
+    </audio>
+    <audio id="l11"> 
+      <source src="https://drive.google.com/uc?export=download&id=1Wfng20FnaY1PaQkLG-nj1e50Tbji4wFQ">
+    </audio>
+    <audio id="l12"> 
+      <source src="https://drive.google.com/uc?export=download&id=184tsENjkEZGdDSzt1TIFzs7-XK7Vq8Nw">
+    </audio>
+    <audio id="l13"> 
+      <source src="https://drive.google.com/uc?export=download&id=1-FbJX0ZtAcq7lPPeW9T22g3dckGr76sF">
+    </audio>
+    <audio id="l14"> 
+      <source src="https://drive.google.com/uc?export=download&id=1vyvqS1pHJABbGmkRhwH28GuZd_iZdhHj">
+    </audio>
+    <audio id="l15"> 
+      <source src="https://drive.google.com/uc?export=download&id=1aLK7OOgJufYe7SQsp-MbB0H51_YnfjTY">
+    </audio>
+    <audio id="l16"> 
+      <source src="https://drive.google.com/uc?export=download&id=1KIi5DoFthvDcTB_xsavnsDPKA4kD1is1">
+    </audio>
+    <audio id="l17"> 
+      <source src="https://drive.google.com/uc?export=download&id=1rn2A5PW2WDTVgJiu69AoyNJrliSR_a4W">
+    </audio>
+
+
     <div>
       <img src="https://drive.google.com/uc?export=download&id=13bIOtdx8ghaF-ovmRhtFwFtm6SIk9oiZ" alt="DON'T MISS THE TWIST 3">
     </div>
@@ -138,6 +245,8 @@
       <select id = "chooseVoice">
         <option value="cj">Child Actor</option>
         <option value="jh">Normal Korean Man</option>
+        <option value="r">Rujula Kapoor</option>
+        <option value="l">Lauren Lum</option>
       </select>
     </div>
     <div class="fuck">
@@ -307,6 +416,143 @@ function jhtimer() {
 
   x.play();
 }
+
+function rujTimer() {
+  var ran = Math.floor(Math.random() * 17);
+  var x;
+
+  var voiceOp = document.getElementById("chooseVoice");
+  if(voiceOp.selectedIndex != 2) {
+    return;
+  }
+
+  switch(ran) {
+    case 0:
+      x = document.getElementById('r1');
+      break;
+    case 1:
+      x = document.getElementById('r2');
+      break;
+    case 2:
+      x = document.getElementById('r3');
+      break;
+    case 3:
+      x = document.getElementById('r4');
+      break;
+    case 4:
+      x = document.getElementById('r5');
+      break;
+    case 5:
+      x = document.getElementById('r6');
+      break;
+    case 6:
+      x = document.getElementById('r7');
+      break;
+    case 7:
+      x = document.getElementById('r8');
+      break;
+    case 8:
+      x = document.getElementById('r9');
+      break;
+    case 9:
+      x = document.getElementById('r10');
+      break;
+    case 10:
+      x = document.getElementById('r11');
+      break;
+    case 11:
+      x = document.getElementById('r12');
+      break;
+    case 12:
+      x = document.getElementById('r13');
+      break;
+    case 13:
+      x = document.getElementById('r14');
+      break;
+    case 14:
+      x = document.getElementById('r15');
+      break;
+    case 15:
+      x = document.getElementById('r16');
+      break;
+    case 16:
+      x = document.getElementById('r17');
+      break;
+    default:
+      alert('something is big wrong');
+  }
+
+  x.play();
+}
+
+function lurnTimer() {
+  var ran = Math.floor(Math.random() * 17);
+  var x;
+
+  var voiceOp = document.getElementById("chooseVoice");
+  if(voiceOp.selectedIndex != 3) {
+    return;
+  }
+
+  switch(ran) {
+    case 0:
+      x = document.getElementById('l1');
+      break;
+    case 1:
+      x = document.getElementById('l2');
+      break;
+    case 2:
+      x = document.getElementById('l3');
+      break;
+    case 3:
+      x = document.getElementById('l4');
+      break;
+    case 4:
+      x = document.getElementById('l5');
+      break;
+    case 5:
+      x = document.getElementById('l6');
+      break;
+    case 6:
+      x = document.getElementById('l7');
+      break;
+    case 7:
+      x = document.getElementById('8');
+      break;
+    case 8:
+      x = document.getElementById('l9');
+      break;
+    case 9:
+      x = document.getElementById('l10');
+      break;
+    case 10:
+      x = document.getElementById('l11');
+      break;
+    case 11:
+      x = document.getElementById('l12');
+      break;
+    case 12:
+      x = document.getElementById('l13');
+      break;
+    case 13:
+      x = document.getElementById('l14');
+      break;
+    case 14:
+      x = document.getElementById('l15');
+      break;
+    case 15:
+      x = document.getElementById('l16');
+      break;
+    case 16:
+      x = document.getElementById('l17');
+      break;
+    default:
+      alert('something is big wrong');
+  }
+
+  x.play();
+}
+
 export default {
   name: 'app',
   components: {
@@ -318,9 +564,15 @@ export default {
       if(voiceOp.selectedIndex == 0) {
         setInterval(cjtimer, 3000);
       }
-      else {
+      else if (voiceOp.selectedIndex == 1) {
         //setInterval(jhtimer, 3000);
         setInterval(jhtimer, 3000);
+      }
+      else if (voiceOp.selectedIndex == 2){
+        setInterval(rujTimer, 5000);
+      }
+      else {
+        setInterval(lurnTimer, 4000);
       }
 
       
