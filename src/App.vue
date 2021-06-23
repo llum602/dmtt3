@@ -236,6 +236,59 @@
       <source src="https://drive.google.com/uc?export=download&id=1rn2A5PW2WDTVgJiu69AoyNJrliSR_a4W">
     </audio>
 
+  <!-- British Rujula -->
+    <audio id="b1"> 
+      <source src="https://drive.google.com/uc?export=download&id=1IiVI2dgMfysBqLxLf6r4zVfSROYNVDIr">
+    </audio>
+    <audio id="b2"> 
+      <source src="https://drive.google.com/uc?export=download&id=1ekAybx5nGExBTwvQV_ZHe1mVrFost_zY">
+    </audio>
+    <audio id="b3"> 
+      <source src="https://drive.google.com/uc?export=download&id=1kWuAi47IemkL9teRZT9zNG2er5NYqHIr">
+    </audio>
+    <audio id="b4"> 
+      <source src="https://drive.google.com/uc?export=download&id=1CEvN2bjYde5vL6Kb_Oge4pSL5PuGmvLt">
+    </audio>
+    <audio id="b5"> 
+      <source src="https://drive.google.com/uc?export=download&id=1n1YnLN3gr0O5OhSTP9u-_Nt1Ym_mrY6f">
+    </audio>
+    <audio id="b6"> 
+      <source src="https://drive.google.com/uc?export=download&id=1nCJABiQA4W3w1WtCfub_ElMJXhJ8Mwcm">
+    </audio>
+    <audio id="b7"> 
+      <source src="https://drive.google.com/uc?export=download&id=1dzGdV8WrwWQVOr2srEF_jRI7pdeYUMko">
+    </audio>
+    <audio id="b8"> 
+      <source src="https://drive.google.com/uc?export=download&id=1DXE-5ZkF8bH3QMxtuCs4pmVgy2JVxZSx">
+    </audio>
+    <audio id="b9"> 
+      <source src="https://drive.google.com/uc?export=download&id=1rqtQ90udN_bRRyxSVfQq66srK5izFYbS">
+    </audio>
+    <audio id="b10"> 
+      <source src="https://drive.google.com/uc?export=download&id=1IKFCB2RTg9bptuhTafNTcg3QMsRRL_Y6">
+    </audio>
+    <audio id="b11"> 
+      <source src="https://drive.google.com/uc?export=download&id=11nOTtoPeoWj6LgBJhAVpt__pd6J0jNdA">
+    </audio>
+    <audio id="b12"> 
+      <source src="https://drive.google.com/uc?export=download&id=1NkdMxZxfIrZkQnh2HwEJoEN-YQO-8RXY">
+    </audio>
+    <audio id="b13"> 
+      <source src="https://drive.google.com/uc?export=download&id=1ZVKUr8bJtf_a-UEk9y-hdOfEhdenR2iX">
+    </audio>
+    <audio id="b14"> 
+      <source src="https://drive.google.com/uc?export=download&id=1n5SN63qTBf0mK3Q-VYMj7oyrHZkJbDmo">
+    </audio>
+    <audio id="b15"> 
+      <source src="https://drive.google.com/uc?export=download&id=13khbTlktqzlo3n0k323mzFhZHEaqcjUf">
+    </audio>
+    <audio id="b16"> 
+      <source src="https://drive.google.com/uc?export=download&id=1w7o9qjwvmKSyvL7NNbWMgLkIDtK67Ls3">
+    </audio>
+    <audio id="b17"> 
+      <source src="https://drive.google.com/uc?export=download&id=1w7o9qjwvmKSyvL7NNbWMgLkIDtK67Ls3">
+    </audio>
+
 
     <div>
       <img src="https://drive.google.com/uc?export=download&id=13bIOtdx8ghaF-ovmRhtFwFtm6SIk9oiZ" alt="DON'T MISS THE TWIST 3">
@@ -246,6 +299,7 @@
         <option value="cj">Child Actor</option>
         <option value="jh">Normal Korean Man</option>
         <option value="r">Rujula Kapoor</option>
+        <option value="b">Normal British Woman</option>
         <option value="l">Lauren Lum</option>
       </select>
     </div>
@@ -490,7 +544,7 @@ function lurnTimer() {
   var x;
 
   var voiceOp = document.getElementById("chooseVoice");
-  if(voiceOp.selectedIndex != 3) {
+  if(voiceOp.selectedIndex != 4) {
     return;
   }
 
@@ -553,6 +607,75 @@ function lurnTimer() {
   x.play();
 }
 
+function britishTimer() {
+  var ran = Math.floor(Math.random() * 17);
+  var x;
+
+  var voiceOp = document.getElementById("chooseVoice");
+  if(voiceOp.selectedIndex != 3) {
+    return;
+  }
+
+  switch(ran) {
+    case 0:
+      console.log("BRITISH");
+      x = document.getElementById('b1');
+      break;
+    case 1:
+      x = document.getElementById('b2');
+      break;
+    case 2:
+      x = document.getElementById('b3');
+      break;
+    case 3:
+      x = document.getElementById('b4');
+      break;
+    case 4:
+      x = document.getElementById('b5');
+      break;
+    case 5:
+      x = document.getElementById('b6');
+      break;
+    case 6:
+      x = document.getElementById('b7');
+      break;
+    case 7:
+      x = document.getElementById('b8');
+      break;
+    case 8:
+      x = document.getElementById('b9');
+      break;
+    case 9:
+      x = document.getElementById('b10');
+      break;
+    case 10:
+      x = document.getElementById('b11');
+      break;
+    case 11:
+      x = document.getElementById('b12');
+      break;
+    case 12:
+      x = document.getElementById('b13');
+      break;
+    case 13:
+      x = document.getElementById('b14');
+      break;
+    case 14:
+      x = document.getElementById('b15');
+      break;
+    case 15:
+      x = document.getElementById('b16');
+      break;
+    case 16:
+      x = document.getElementById('b17');
+      break;
+    default:
+      alert('something is big wrong');
+  }
+
+  x.play();
+}
+
 export default {
   name: 'app',
   components: {
@@ -570,6 +693,9 @@ export default {
       }
       else if (voiceOp.selectedIndex == 2){
         setInterval(rujTimer, 5000);
+      }
+      else if (voiceOp.selectedIndex == 3) {
+        setInterval(britishTimer, 7000);
       }
       else {
         setInterval(lurnTimer, 4000);
